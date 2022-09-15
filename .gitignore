@@ -1,0 +1,9 @@
+**/__pycache__/
+.DS_Store
+*.csv
+*.log
+data/
+archive/
+logs/
+non_additive_glm/
+non_additive_expected_observed/
